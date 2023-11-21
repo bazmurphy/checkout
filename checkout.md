@@ -54,10 +54,3 @@ A A A B B    195
 A A A B B D  220
 D A B A B A  220
 ```
-
-## Submission
-
-Please upload your solution (including any instructions to build/run) to a public repository on
-GitHub. Once uploaded, email neil.kilbride@redstor.com with the details.
-
-Good luck!
